@@ -1,0 +1,6 @@
+So, we've been learning about how to make apps using Swift. For my latest project, "Homework 13," I was asked to update an existing memory game app by adding a new feature: a progress bar. The goal was to show the user how close they are to winning the game as they play.
+I started by working on the "Model," which is the part of the code that handles the game's rules and data. I wrote a new piece of code that calculates a percentage based on how many cards have been matched compared to the total number of cards. For example, if half the cards are matched, the progress is 50%.
+Next, I connected this to the "View," which is what the user actually sees on the screen. I used a tool called ProgressView to create a blue bar at the top of the game. Now, every time a player matches a pair of cards, the bar fills up a little more. This gives the player instant feedback on how well they are doing.
+Finally, I uploaded my entire project to GitHub. This is a platform where programmers save and share their code. I used terminal commands to push my code from my computer to the internet so my teacher can see my work. I learned a lot about connecting different parts of an app and using professional tools to manage my code.
+
+See my video: https://drive.google.com/file/d/1YKBNnoK8JPRmlbb2q8tceTs_oEsAmJ8f/view?usp=drivesdk
